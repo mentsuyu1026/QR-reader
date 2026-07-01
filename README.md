@@ -42,7 +42,9 @@ python3 "qr_reader (1).py"
 ## デモ動画&プレゼン資料
 
 [ラズパイレポート2.pdf](https://github.com/user-attachments/files/29555165/2.pdf)
+
 https://github.com/user-attachments/assets/8e052cb8-8918-4db4-8d39-405e9d18814f
+
 https://github.com/user-attachments/assets/bd0a53f6-b57b-4d82-8e64-2f24fd78c9b6
 
 ## 注意事項
